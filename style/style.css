@@ -84,3 +84,14 @@ body {
     
 }
 
+@media screen and (max-width: 450px) {
+    .timer {
+        font-size: 4em;
+    }
+
+    .btn {
+        font-size: 2em;
+    }
+}
+
+
